@@ -1,0 +1,7 @@
+question_id,subject,topic,marks,correct
+1,Math,Algebra,5,0
+2,Math,Algebra,5,1
+3,Math,Calculus,5,0
+4,Physics,Mechanics,5,0
+5,Physics,Mechanics,5,1
+6,Chemistry,Organic,5,0

@@ -1,0 +1,19 @@
+question_id,subject,topic,correct
+1,DS,Arrays,0
+2,DS,Arrays,1
+3,DS,Linked List,0
+4,DS,Stacks,0
+5,DS,Queues,1
+6,CO,Number System,0
+7,CO,Number System,0
+8,CO,Boolean Algebra,1
+9,CO,Boolean Algebra,0
+10,Java,OOP Concepts,0
+11,Java,OOP Concepts,1
+12,Java,Collections,0
+13,Python,Basics,1
+14,Python,Basics,1
+15,Python,Functions,0
+16,Python,Functions,0
+17,Python,OOP,1
+18,Python,OOP,0
